@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>student_management_system</artifactId>
+=======
+    <artifactId>untitled</artifactId>
+>>>>>>> fed16670c883e971da283c5276cd38b1b20b6a3d
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -15,7 +19,10 @@
     </properties>
 
     <dependencies>
+<<<<<<< HEAD
 
+=======
+>>>>>>> fed16670c883e971da283c5276cd38b1b20b6a3d
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
@@ -23,13 +30,20 @@
             <scope>compile</scope>
         </dependency>
 
+<<<<<<< HEAD
+=======
+        <!-- Source: https://mvnrepository.com/artifact/org.openjfx/javafx-fxml -->
+>>>>>>> fed16670c883e971da283c5276cd38b1b20b6a3d
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
             <version>21</version>
             <scope>compile</scope>
         </dependency>
+<<<<<<< HEAD
 
+=======
+>>>>>>> fed16670c883e971da283c5276cd38b1b20b6a3d
     </dependencies>
 
 </project>
